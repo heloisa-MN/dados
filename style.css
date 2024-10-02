@@ -1,6 +1,6 @@
 /* Estilo para o cabeçalho do jogo */
 header {
-    background: url('caminho/para/imagem.jpg') no-repeat center center; /* Imagem de fundo */
+   background-color: burlywood;
     background-size: cover; /* Cobre toda a área */
     color: #FFD700; /* Cor do texto */
     padding: 20px; /* Espaçamento interno */
